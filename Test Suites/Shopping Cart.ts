@@ -18,4 +18,18 @@
       <testCaseId>Test Cases/Shopping Cart/ShoppingCart_AddProduct_Success</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
+   <testCaseLink>
+      <guid>6a081acf-facc-485a-81ed-0d7cc5d7e10c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Shopping Cart/ShoppingCart_ApplyInvalidCoupon_ShowsError</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>9ddd69d9-0e85-42ce-ad31-8994cde5e962</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Shopping Cart/ShoppingCart_Checkout_Success</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
 </TestSuiteEntity>
