@@ -33,17 +33,22 @@ WebUI.click(findTestObject('Object Repository/Shopping Cart/Page_Customer Login/
 
 WebUI.navigateToUrl('https://magento.softwaretestingboard.com/checkout/cart/')
 
-// Jika form_Shopping Cart Items ada → hapus item
 if (WebUI.verifyElementPresent(findTestObject('Shopping Cart/Page_Shopping Cart/form_Shopping Cart Items                                                Item                    Price                    Qty                    Subtotal'), 5, FailureHandling.OPTIONAL)) {
-	println 'Cart is not empty, removing item...'
-	
-	// Hapus semua item dalam cart
-	WebUI.click(findTestObject('Object Repository/Shopping Cart/Page_Shopping Cart/a_Remove item'))
+    println 'Cart is not empty, starting to remove items...'
+    
+    while (WebUI.verifyElementPresent(findTestObject('Object Repository/Shopping Cart/Page_Shopping Cart/a_Remove item'), 3, FailureHandling.OPTIONAL)) {
+        WebUI.click(findTestObject('Object Repository/Shopping Cart/Page_Shopping Cart/a_Remove item'))
+        
+        // Tambahkan delay sedikit agar halaman sempat refresh
+        WebUI.delay(1)
+    }
 
-	
+    println 'All items removed from the cart.'
+    
 } else {
-	println 'Cart is already empty, proceeding...'
+    println 'Cart is already empty, proceeding...'
 }
+
 
 WebUI.navigateToUrl('https://magento.softwaretestingboard.com/argus-all-weather-tank.html')
 
