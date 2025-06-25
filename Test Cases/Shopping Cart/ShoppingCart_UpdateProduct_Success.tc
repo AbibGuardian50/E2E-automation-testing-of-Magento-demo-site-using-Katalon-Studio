@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ShoppingCart_UpdateProduct_Success</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f99767c1-32bc-4a52-ab6d-f902d052adf9</testCaseGuid>
+</TestCaseEntity>

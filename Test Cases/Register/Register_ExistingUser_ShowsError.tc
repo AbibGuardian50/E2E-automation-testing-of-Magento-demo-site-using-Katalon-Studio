@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Register_ExistingUser_ShowsError</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cd584fce-b90f-4058-b293-43c3127b0bd3</testCaseGuid>
+</TestCaseEntity>

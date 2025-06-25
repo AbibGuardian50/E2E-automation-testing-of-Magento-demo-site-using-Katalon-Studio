@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ShoppingCart_ApplyInvalidCoupon_ShowsError</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8b82cbc5-9332-493e-8e5e-715ef2592aa0</testCaseGuid>
+</TestCaseEntity>
