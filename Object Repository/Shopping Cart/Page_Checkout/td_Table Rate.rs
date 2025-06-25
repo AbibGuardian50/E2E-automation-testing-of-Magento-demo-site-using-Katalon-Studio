@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Table Rate</name>
+   <tag></tag>
+   <elementGuidId>3376c9af-9051-488b-b9cc-08fbe3469b30</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[@id='label_method_bestway_tablerate']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#label_method_bestway_tablerate</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>7599822b-9a3f-4124-a264-702fc19cbce3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col col-method</value>
+      <webElementGuid>d4104121-8c55-4250-8c4f-5dd5124554a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>attr: {'id': 'label_method_' + method.method_code + '_' + method.carrier_code}, text: method.method_title</value>
+      <webElementGuid>9997a089-8793-4b02-89d1-375b36f6d49e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>label_method_bestway_tablerate</value>
+      <webElementGuid>fa960caf-a4b3-4183-acff-1c9d4f696618</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Table Rate</value>
+      <webElementGuid>2f3711b6-9a53-43d3-88de-207087c02eb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;label_method_bestway_tablerate&quot;)</value>
+      <webElementGuid>fc6ac6f8-be1a-4b03-a9d7-f78b6f5cc75f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//td[@id='label_method_bestway_tablerate']</value>
+      <webElementGuid>d934aad4-9ed4-4a74-a4c6-c906eae44400</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='checkout-shipping-method-load']/table/tbody/tr/td[3]</value>
+      <webElementGuid>1543c005-a823-4e9b-91f0-8dfe80eb6b02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$0.00'])[1]/following::td[1]</value>
+      <webElementGuid>286d87aa-0d8f-40c7-ab3d-d8da2795a035</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Carrier Title'])[1]/following::td[3]</value>
+      <webElementGuid>2147deab-5b8d-4a78-b3e5-a9d447fdd3d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Best Way'])[1]/preceding::td[1]</value>
+      <webElementGuid>d293c389-89ef-4162-a69b-d6bb488982e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$20.00'])[1]/preceding::td[3]</value>
+      <webElementGuid>2bf71754-e5d6-4203-bfd7-cdbfe8e353d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Table Rate']/parent::*</value>
+      <webElementGuid>53ac5169-f8fb-4662-ae19-d610c7096446</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]</value>
+      <webElementGuid>fda27a98-e324-42a5-9fa7-03d37b26383c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[@id = 'label_method_bestway_tablerate' and (text() = 'Table Rate' or . = 'Table Rate')]</value>
+      <webElementGuid>4ea71c33-5f96-429d-a644-dcaa0e35b0d9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

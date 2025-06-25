@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Wayfarer Messenger Bag</name>
+   <tag></tag>
+   <elementGuidId>27f42395-17dd-4e8a-a8f3-d23400f95412</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='shopping-cart-table']/tbody[2]/tr/td/div/strong/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9d72eb66-1ff4-45b7-a456-a783b2d6e7c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://magento.softwaretestingboard.com/wayfarer-messenger-bag.html</value>
+      <webElementGuid>82bc7df5-0e82-489c-9d4e-aec152e523e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Wayfarer Messenger Bag</value>
+      <webElementGuid>0613975a-3920-4304-bd7a-995299fefb6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;shopping-cart-table&quot;)/tbody[@class=&quot;cart item&quot;]/tr[@class=&quot;item-info&quot;]/td[@class=&quot;col item&quot;]/div[@class=&quot;product-item-details&quot;]/strong[@class=&quot;product-item-name&quot;]/a[1]</value>
+      <webElementGuid>d2d78556-d464-49ca-b26c-b45e0712f7c5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='shopping-cart-table']/tbody[2]/tr/td/div/strong/a</value>
+      <webElementGuid>e2a3bcfb-182f-4ef5-9857-8bfcdcd8eda9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Wayfarer Messenger Bag')])[2]</value>
+      <webElementGuid>860d4aad-3915-476a-bb5b-ad2c4402c248</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remove item'])[1]/following::a[2]</value>
+      <webElementGuid>212fe3c5-9f8f-44dc-bcfe-e32cfb7f3bce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[3]/following::a[3]</value>
+      <webElementGuid>440b4e25-c70e-4192-85a0-3ae14002f891</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$45.00'])[2]/preceding::a[1]</value>
+      <webElementGuid>84cdca81-0c70-45be-8d22-2b4394db4961</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Qty'])[5]/preceding::a[1]</value>
+      <webElementGuid>9df6a473-0042-4c4d-b13a-627d7e278a9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://magento.softwaretestingboard.com/wayfarer-messenger-bag.html')])[4]</value>
+      <webElementGuid>538f1cdc-74c8-44c2-a970-e550268b7628</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tbody[2]/tr/td/div/strong/a</value>
+      <webElementGuid>ac2ca42a-806c-4304-bceb-dc63fdae3274</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://magento.softwaretestingboard.com/wayfarer-messenger-bag.html' and (text() = 'Wayfarer Messenger Bag' or . = 'Wayfarer Messenger Bag')]</value>
+      <webElementGuid>e727653a-5f8c-47d2-b7ab-f876b7b875b8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

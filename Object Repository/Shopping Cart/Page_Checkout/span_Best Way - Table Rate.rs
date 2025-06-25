@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Best Way - Table Rate</name>
+   <tag></tag>
+   <elementGuidId>25e6e324-0522-42be-86ab-2bdf84b0a6c1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='opc-sidebar']/div[2]/div/div[2]/div[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.shipping-information-content > span.value</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1e5e66ef-08b0-45e1-af20-25516807f3dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>value</value>
+      <webElementGuid>ef948deb-7d16-4772-a43a-914e0af877a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>text: getShippingMethodTitle()</value>
+      <webElementGuid>9e066b23-f9d9-4ac2-9e79-2815bd629db0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Best Way - Table Rate</value>
+      <webElementGuid>c80dcbb7-ea67-486c-8de0-0b8d57e1aea5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;opc-sidebar&quot;)/div[@class=&quot;opc-block-shipping-information&quot;]/div[@class=&quot;shipping-information&quot;]/div[@class=&quot;ship-via&quot;]/div[@class=&quot;shipping-information-content&quot;]/span[@class=&quot;value&quot;]</value>
+      <webElementGuid>709b226c-e966-4875-8b7e-ef8265547f94</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='opc-sidebar']/div[2]/div/div[2]/div[2]/span</value>
+      <webElementGuid>75992200-1b0c-4bc7-bd27-17f6bc74ebe3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='edit'])[2]/following::span[1]</value>
+      <webElementGuid>0f22fe99-4e0a-4b33-be46-800a39739a0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shipping Method:'])[1]/following::span[2]</value>
+      <webElementGuid>b9971fb6-2af9-40cf-89c6-33a47b645421</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Magento'])[1]/preceding::span[1]</value>
+      <webElementGuid>8758d077-1ced-4a5b-bee9-6a4fa8c399cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[3]/preceding::span[3]</value>
+      <webElementGuid>0f545d9c-1870-47f1-829c-0f3f9ce0b314</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/span</value>
+      <webElementGuid>a42a8db3-c0ce-4e66-8d37-194151b508b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Best Way - Table Rate' or . = 'Best Way - Table Rate')]</value>
+      <webElementGuid>630f2ce0-38dd-4f5b-a7f2-6fa22d92faa6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
